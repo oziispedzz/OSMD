@@ -1,5 +1,12 @@
-## HanzoBotz
-> Note : Base ini di update secara berkala dan buat yang mau download versi terbaru atau lama bisa cek di branch, dan di mohon untuk tidak menghapus thanks to yang di sc ini:)
+## OSbotz-Md
+<img src="https://telegra.ph/file/9a18a94c79aa152026a80.jpg" width="30%"/>
+
+---------
+
+## INFORMATION 
+> OSBOT bot adalah script bot untuk public , yang di kembangkan oleh [OZY Dev](https://youtube.com/@FauziSpedzz)
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+
 
 ## Instalasi
 
@@ -26,8 +33,8 @@
 * Download And Install Ffmpeg [`Click Here`](https://ffmpeg.org/download.html)
 
 ```
-> git clone https://github.com/KazeDevID/HanzoBotz
-> cd HanzoBotz
+> git clone https://github.com/oziispedzz/OSMD
+> cd OSMd
 > npm i
 > npm start
 ```
@@ -36,7 +43,7 @@
 1. Regist in https://replit.com
 2. Click plus button
 3. Click import from github
-4. Enter link: https://github.com/KazeDevID/HanzoBotz
+4. Enter link: https://github.com/oziispedzz/OSMD
 5. Run/click green button
 
 ## Replit buildpack
@@ -65,10 +72,10 @@ https://github.com/Danzzxcodes/heroku-buildpack-webp-binaries.git
 * Convert CMD 2 Fitur 
 
 ## Social media
-<a href="https://youtube.com/@KazeDevID">Youtube</a><br>
-<a href="https://instagram.com/lordagam23_">Instagram</a><br>
+<a href="https://youtube.com/@FauziSpedzz">Youtube</a><br>
+<a href="https://instagram.com/fauzijywrdna">Instagram</a><br>
 
 ## Contact
-<a href="https://wa.me/6282217590187">WhatsApp</a><br>
+<a href="https://wa.me/6289528652225">WhatsApp</a><br>
 # OSMD
 # OSMD
