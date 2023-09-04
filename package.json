@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KazeDevID/HanzoBotz.git"
+    "url": "git+https://github.com/oziispedzz/OSMD.git"
   },
   "bugs": {
-    "url": "https://github.com/KazeDevID/HanzoBotz/issues"
+    "url": "https://github.com/oziispedzz/OSMD/issues"
   },
   "license": "ISC",
   "dependencies": {
